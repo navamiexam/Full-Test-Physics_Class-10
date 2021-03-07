@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="17CCC53A-1E91-434C-876A-BC26EF27C8AD" version="0">
+	<info>
+		<title>Full-Test-Physics_Class-10</title>
+		<description/>
+	</info>
+	<files index="id24" thumbnail="id20" totalSize="2212042">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-401b32ce1dfdf2747d3dff0582bbea41e1f31556.jpg</file>
+		<file id="id10">data/images/img-4bbabd73a74cf241f95f477651b317aca8496ec3.jpg</file>
+		<file id="id11">data/images/img-6b81ba0ff1851e0e8978c25b4aed8914afcdd449.jpg</file>
+		<file id="id12">data/images/img-6bc26f65b6d3604016e5a6aa245dbac1b16d6a79.jpg</file>
+		<file id="id13">data/images/img-af1bbe5aec41e0e41263dc42fa0b0ec3ff7b1666.jpg</file>
+		<file id="id14">data/images/img-be6bcb528a9f912c7acc759b06965e82d21fc684.jpg</file>
+		<file id="id15">data/images/img-c0fd901ff644e4562e6d371dbeac2497a63c8cc7.jpg</file>
+		<file id="id16">data/images/img-c9473742d50d9d443b1ae35bfa724e80e00cfc50.jpg</file>
+		<file id="id17">data/images/img-f15e1a161b69fe9b6095a4533ce3a0be5ee1e0c3.png</file>
+		<file id="id18">data/ismplayer/app_store2x.png</file>
+		<file id="id19">data/ismplayer/play.svg</file>
+		<file id="id20">data/ismplayer/preview.png</file>
+		<file id="id21">data/ismplayer/style.css</file>
+		<file id="id22">data/ismplayer/style_mini.css</file>
+		<file id="id23">data/player.js</file>
+		<file id="id24">index.html</file>
+		<file id="id25">ismplayer.html</file>
+		<file id="id26">preview.png</file>
+	</files>
+</presentation>
+
